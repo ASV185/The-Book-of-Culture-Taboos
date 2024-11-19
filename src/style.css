@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+
+.book-cover {
+    background-color: black;
+    padding: 300px 150px;
+    margin-top: 180px;
+    border-radius: 5px;
+}
+
+.pages {
+    background-color: white;
+    padding: 350px 400px;
+    margin-left: 175px;
+    margin-top: 200px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-family: "Bokor", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
