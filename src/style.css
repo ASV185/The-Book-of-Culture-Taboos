@@ -25,3 +25,16 @@ h1 {
     color: white;
     text-align: center;
 }
+
+.circular-arrow {
+    margin-top: 500px;
+}
+
+.start-link {
+    display:block;
+    margin-top: 500px;
+    padding: 10px 25px;
+    text-decoration: none;
+    color:black;
+}
+
