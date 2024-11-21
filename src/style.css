@@ -17,15 +17,6 @@ body {
     border-radius: 5px;
 }
 
-h1 {
-    font-family: "Bokor", system-ui;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 60px;
-    color: white;
-    text-align: center;
-}
-
 .circular-arrow {
     margin-top: 500px;
 }
@@ -47,3 +38,46 @@ h1 {
     text-decoration: underline;
 }
 
+h1 {
+    font-family: "Bokor", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Noto Serif Ahom", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+h3 {
+    color:black;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+p {
+    color:black;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.first-page {
+    background-color: white;
+}
+
+.second-page {
+    background-color: white;
+}
+
+.cultural-taboo-section {
+    margin:20px;
+}
