@@ -122,3 +122,13 @@ ul {
     color: rgb(241, 177, 14);
     text-decoration: underline;
 }
+
+.credit-section a {
+    color: white;
+    text-decoration: none;
+}
+
+.credit-section a:hover {
+    color: rgb(241, 177, 14);
+    text-decoration: underline;
+}
