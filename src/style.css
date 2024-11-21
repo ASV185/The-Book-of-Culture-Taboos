@@ -94,6 +94,21 @@ ul {
     padding-top: 500px;
 }
 
+.back-link a {
+    float: right;
+    color: black;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.back-link a:hover {
+    color: rgb(241, 177, 14);
+    text-decoration: underline;
+}
+
 .resources-section {
     text-align: center;
 }
