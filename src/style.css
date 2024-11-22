@@ -135,6 +135,12 @@ ul {
     text-decoration: underline;
 }
 
+.credit-section {
+    background-color: black;
+    margin-top: 500px;
+    margin-left: 800px;
+}
+
 .credit-section a {
     color: white;
     text-decoration: none;
